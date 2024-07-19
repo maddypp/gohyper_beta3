@@ -5,6 +5,7 @@ include_in_header: true
 ---
 
 # How It Works
+GoHyper is an app built on the decentralized Gig-Gossip protocol, integrating Bitcoin and NOSTR for secure connections. Users can pay with Bitcoin through the Lightning Network, earning rewards even for routing messages. The app ensures decentralized operations, offering peer-to-peer connectivity for direct interactions between riders and drivers. Users can negotiate prices in real-time, enjoy instant booking, and access 24/7 support. Security features include KYC and driver screening, while a community ratings system ensures service quality. GoHyper creates a secure, efficient, and user-centric ridesharing experience.
 
 <br>
 
